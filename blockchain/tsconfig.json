@@ -8,5 +8,5 @@
     "skipLibCheck": true,
     "types": ["node", "mocha"]
   },
-  "include": ["./hardhat.config.ts", "./test", "./scripts"]
+  "include": ["./hardhat.config.ts", "./test", "./scripts", "./types"]
 }
