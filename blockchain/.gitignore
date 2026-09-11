@@ -3,5 +3,6 @@ artifacts/
 cache/
 coverage/
 typechain-types/
+types/
 .env
 *.log
